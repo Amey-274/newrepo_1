@@ -1,0 +1,170 @@
+commit a1c1dbd55415b90af6a94dd7f69acb63c091a0ef
+Author: Amey-274 <nonhackable1290@gmail.com>
+Date:   Sat Jan 23 10:11:52 2021 +0530
+
+    added all files
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..e69de29
+diff --git a/dir/file.py b/dir/file.py
+new file mode 100644
+index 0000000..e69de29
+diff --git a/error.log b/error.log
+new file mode 100644
+index 0000000..d8806b2
+--- /dev/null
++++ b/error.log
+@@ -0,0 +1,24 @@
++s
++
++s
++s
++s
++ss
++
++ss
++ssasa
++ssasasa
++ssasasa
++sssasas
++ss
++
++ssasasaas
++sssssssssssssss
++d
++sd
++sdd
++sd
++a
++
++
++gelo
+\ No newline at end of file
+diff --git a/file.db b/file.db
+new file mode 100644
+index 0000000..29405b6
+--- /dev/null
++++ b/file.db
+@@ -0,0 +1 @@
++dsds
+\ No newline at end of file
+diff --git a/file.txt b/file.txt
+new file mode 100644
+index 0000000..0346e1e
+--- /dev/null
++++ b/file.txt
+@@ -0,0 +1,21 @@
++this is version tone ssssssssssssss
++ssssssssssssss
++
++
++
++
++
++
++
++
++
++
++ssssssssssssssssssssssssssssss
++
++
++
++
++
++
++
++sssssssssssssssssssssss
+\ No newline at end of file
+diff --git a/file1.log b/file1.log
+new file mode 100644
+index 0000000..e69de29
+diff --git a/file1.py b/file1.py
+new file mode 100644
+index 0000000..f17fc5d
+--- /dev/null
++++ b/file1.py
+@@ -0,0 +1,2 @@
++def func():
++    return "hello"
+\ No newline at end of file
+diff --git a/file2.log b/file2.log
+new file mode 100644
+index 0000000..e69de29
+diff --git a/file3.log b/file3.log
+new file mode 100644
+index 0000000..e69de29
+diff --git a/file3.py b/file3.py
+new file mode 100644
+index 0000000..a800984
+--- /dev/null
++++ b/file3.py
+@@ -0,0 +1,23 @@
++def name():
++    print("hello World")
++    return 
++
++
++
++def name1():
++    print("hello")
++
++
++def func():
++    return "hello World"
++
++def func1():
++    return "hello1"
++
++    #  ssh-keygen -t ed25519 -C "nonhackable190@gmail.com"
++    #  eval $(ssh-agent -s)
++    #  tail ~/.ssh/id_rsa.pub
++# sssss
++
++def func12():
++    return
+\ No newline at end of file
+diff --git a/myweb/index.html b/myweb/index.html
+new file mode 100644
+index 0000000..59dd55b
+--- /dev/null
++++ b/myweb/index.html
+@@ -0,0 +1,11 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <meta name="viewport" content="width=device-width, initial-scale=1.0">
++    <title>This is my web title issue3</title>
++</head>
++<body>
++    
++</body>
++</html>
+\ No newline at end of file
+diff --git a/static/dir/file.py b/static/dir/file.py
+new file mode 100644
+index 0000000..e69de29
+diff --git a/static/file.html b/static/file.html
+new file mode 100644
+index 0000000..ee1d891
+--- /dev/null
++++ b/static/file.html
+@@ -0,0 +1,12 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <meta name="viewport" content="width=device-width, initial-scale=1.0">
++    <title>Document</title>
++</head>
++<body>
++    <h1>file.html is changed  file i </h1>
++<p>Lorem ipsum dolthis isor sit amet consectetur adipisicing elit. Ducimus esse quae omnis, quidem deleniti a eligendi quos corrupti quia laboriosam placeat, est tenetur ullam molestias impedit officia asperiores ipsa adipisci? Illum veniam, unde reprehenderit eius animi sunt. Pariatur, eum? Dicta!</p>
++</body>
++</html>
+\ No newline at end of file
+diff --git a/static/file2.html b/static/file2.html
+new file mode 100644
+index 0000000..e69de29
